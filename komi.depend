@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1644405382 source:c:\users\siofm\desktop\komi1\graph.cpp
+	"pch.h"
+	"Graph.h"
+	<fstream>
+	<time.h>
+
+1644405382 c:\users\siofm\desktop\komi1\pch.h
+
+1644405382 c:\users\siofm\desktop\komi1\graph.h
+	<string>
+
+1644405382 source:c:\users\siofm\desktop\komi1\main.cpp
+	<iostream>
+	"Graph.h"
+	"TSP_BB.h"
+	"TSP_DP.h"
+	"Menu.h"
+
+1644405382 c:\users\siofm\desktop\komi1\tsp_bb.h
+	"Graph.h"
+	"MyStack.h"
+
+1644405382 c:\users\siofm\desktop\komi1\mystack.h
+	<string>
+
+1644405382 c:\users\siofm\desktop\komi1\tsp_dp.h
+	"Graph.h"
+	"MyStack.h"
+
+1644405382 c:\users\siofm\desktop\komi1\menu.h
+	<string>
+	"Graph.h"
+	"TSP_BB.h"
+	"TSP_DP.h"
+	<iostream>
+
+1644405580 source:c:\users\siofm\desktop\komi1\menu.cpp
+	"pch.h"
+	"Menu.h"
+	<windows.h>
+	<time.h>
+
+1644405382 source:c:\users\siofm\desktop\komi1\mystack.cpp
+	"pch.h"
+	"MyStack.h"
+
+1644405382 source:c:\users\siofm\desktop\komi1\pch.cpp
+	"pch.h"
+
+1644405382 source:c:\users\siofm\desktop\komi1\tsp_bb.cpp
+	"pch.h"
+	"TSP_BB.h"
+	<iostream>
+	<vector>
+	<queue>
+
+1644405382 source:c:\users\siofm\desktop\komi1\tsp_dp.cpp
+	"pch.h"
+	"TSP_DP.h"
+
